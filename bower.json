@@ -1,0 +1,23 @@
+{
+  "name": "sonder",
+  "homepage": "https://github.com/zeexia/sonder",
+  "authors": [
+    "Zee <zeexia@users.noreply.github.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "modernizr": "~3.2.0"
+  }
+}
